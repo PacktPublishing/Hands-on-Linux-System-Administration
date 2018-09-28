@@ -1,30 +1,56 @@
-# Microservices Architecture [Video]
-This is the code repository for [Microservices Architecture [Video]](https://www.packtpub.com/application-development/microservices-architecture-video?utm_source=github&utm_medium=repository&utm_campaign=9781788628310), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Linux System Administration [Video]
+This is the code repository for [Hands-On Linux System Administration [Video]](https://www.packtpub.com/virtualization-and-cloud/hands-linux-system-administration-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	All major companies are now evolving from a monolithic to a microservices architecture in their websites and applications due to its many advantages. Early adopters of microservices have been able to provide an unprecedented level of control and speed as they deliver innovative web experiences to customers, and Netflix is a leading example.
-The enterprise-grade architecture that we will build throughout the course will be highly maintainable and scalable. By exploring the intricacies of the microservices architecture you will understand its advantages over a monolithic and other related architecture. By going through multiple scenarios you'll learn where to use microservices and understand the things you should take into account when building your architecture. Advanced tasks—with concepts such as Serverless computing and DevOps using AWS—will also be undertaken to help you in your next venture with confidence.
-By the end of the course, you will be ready to migrate to a microservices architecture in your organization.
+Have you only come into brief contact with Linux before, but now you need to set up or maintain a Linux server? Then this course is for you.
+With this course you'll learn how to master any Linux machine. Control and master the administration of a Linux machine, whether a workstation or a server. You'll learn how to set up services, monitor the system, perform backups, and schedule common tasks.
+By the end of the course you will be ready to start your career as a Linux system administrator.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understanding and learning microservices. 
-<LI>Setting up microservices. 
-<LI>Making a bookmark application cloud-ready. 
-<LI>Combining independent microservice UIs to a coherent user interface. </LI></UL></DIV>
+<LI>Take control and master the administration of a Linux machine, whether a workstation or a server.
+<LI>Deploy services on a Linux machine, such as a web server.
+<LI>Create the desired system by installing and removing software of your choosing.
+<LI>Secure the system by setting the correct file permissions, removing inactive users, creating new users, and changing user passwords.
+<LI>Perform backups of important files on a system, and send those backups to a remote machine or external device.
+<LI>Maintain a system by reading its logs, examining its hardware, adding new storage, and monitor its resources.
+<LI>Schedule common tasks, so that you don't have to perform them manually. Make the system work for you! </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-This course will appeal to architects, designers, and developers who are primarily new to the microservices architecture and interested in migrating to it from a monolithic architecture.
+This course is for developers who want to start their career as a Linux system administrator by learning all about the command line interface. Basic knowledge of Linux is assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-req
+Minimum Hardware Requirements
+For successful completion of this course, students will require the computer systems with at least the following:
 
-## Related Products
-* [SharePoint 2016: Architecture, Deployment and Security [Video]](https://www.packtpub.com/virtualization-and-cloud/sharepoint-2016-architecture-deployment-security-video?utm_source=github&utm_medium=repository&utm_campaign=9781788298506)
+OS: Linux (Debian, Ubuntu, Red Hat, CentOS or Fedora) or Linux running in a virtual environment
 
-* [Building Microservices on AWS [Video]](https://www.packtpub.com/application-development/building-microservices-aws-video?utm_source=github&utm_medium=repository&utm_campaign=9781789341638)
+Processor: Any CPU newer than Pentium 4 will do (for a bare metal installation)
 
-* [Microservices with Spring Cloud [Integrated Course]](https://www.packtpub.com/virtualization-and-cloud/microservices-spring-cloud-integrated-course?utm_source=github&utm_medium=repository&utm_campaign=9781788392426)
+Memory: 1 GB
+
+Storage: 10 GB for Linux + additional software
+
+Recommended Hardware Requirements
+For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+
+OS: Linux (Debian, Ubuntu, Red Hat, CentOS or Fedora) or Linux running in a virtual environment
+
+Processor: A 64-bit CPU
+
+Memory: 4 GB
+
+Storage: 10 GB for Linux + additional software
+
+Access to a secondary computer in the same network (to access a web page on the Linux server)
+
+Software Requirements
+
+Operating system: Linux (Debian, Ubuntu, Red Hat, CentOS or Fedora) or Linux running in a virtual environment
+
+Browser: Any
+
+
 
